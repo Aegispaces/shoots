@@ -3,7 +3,7 @@ Shoots is a simple screenshot capturing script.
 
 NOTE: This script uses libraries, be sure to install them. Documentaries are below:
 
-Tkinter, 
+Tkinter 
 https://docs.python.org/3/library/tkinter.html
 
 PIL (to import ImageGrab)
@@ -33,7 +33,10 @@ I've also made an EXE executable using PyInstaller.
 
 NOTE: 2.0.0 comes with new libraries such as Plyer and PyAudio, make sure to install them!
 
-Plyer, https://plyer.readthedocs.io/en/latest/
-PyAudio, https://pypi.org/project/PyAudio/
+Plyer
+https://plyer.readthedocs.io/en/latest/
+
+PyAudio
+https://pypi.org/project/PyAudio/
 
 
