@@ -15,8 +15,25 @@ https://docs.python.org/3/library/datetime.html
 I've also made an EXE executable using PyInstaller.
 
 
- The interface is as simple as something get.
+1.0.0's Interface
 
 ![Screenshot from 2023-07-06 00-00-00](https://github.com/Aegispaces/shoots/assets/47161013/7b2dce62-bef7-4f4b-ba40-eb09f26a7130)
+
+2.0.0's Interface (UPDATED)
+
+![Screenshot from 2023-07-06 00-50-06](https://github.com/Aegispaces/shoots/assets/47161013/b91fea6e-c19d-41fc-a43f-2a390c5aedbf)
+
+
+
+
+
+
+
+
+
+NOTE: 2.0.0 comes with new libraries such as Plyer and PyAudio, make sure to install them!
+
+Plyer, https://plyer.readthedocs.io/en/latest/
+PyAudio, https://pypi.org/project/PyAudio/
 
 
